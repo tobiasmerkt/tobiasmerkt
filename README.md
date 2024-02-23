@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-Welcome to my GitHub profile! My journey began in business and data science, leading to a job as an AI analyst (data scientist role) at Accenture. Seeking to deepen my quantitative and software development skills, I pursued a bachelor's degree in physics while co-creating the Python package SwarmRL. Here, you'll find two main repositories:
+Welcome to my GitHub profile! My journey began in business and data science, leading to a job as an AI analyst (data scientist role) at Accenture. Seeking to deepen my quantitative and software development skills, I pursued a bachelor's degree in Physics while co-creating the Python package SwarmRL. Here, you'll find two main repositories:
 
 - **SwarmRL**: A Python package designed for Physics researchers to explore reinforcement learning applications, such as using active matter to manipulate objects. The documentation is currently being expanded, but I'm happy to share example scripts and discuss potential applications. [Contact me on LinkedIn](https://www.linkedin.com/in/tobiasmerkt1) for more information.
 
